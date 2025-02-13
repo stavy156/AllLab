@@ -1,0 +1,12 @@
+2025-02-13 14:16:05,970 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2025-02-13 14:16:34,977 [Worker-18: Importing Maven projects] ERROR o.e.m.c.i.p.ProjectConfigurationManager - Project FIS10 already exists
+2025-02-13 14:16:36,332 [Worker-18: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.MIT:FIS10:0.0.1-SNAPSHOT @ C:\Users\student\Desktop\230958086_fintechlab\MIT-FIS-UI-THYMELEAF-master\MIT-FIS-UI-THYMELEAF-master\FIS10\FIS10\pom.xml.
+2025-02-13 14:16:37,802 [Worker-18: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /FIS10/src/main/java
+2025-02-13 14:16:37,803 [Worker-18: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /FIS10/src/main/resources
+2025-02-13 14:16:37,807 [Worker-18: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /FIS10/src/main/resources
+2025-02-13 14:16:37,810 [Worker-18: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /FIS10/src/test/java
+2025-02-13 14:16:37,811 [Worker-18: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /FIS10/src/test/resources
+2025-02-13 14:16:38,318 [Worker-18: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 2 project(s) in 3 sec
+2025-02-13 14:16:39,384 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-02-13 14:16:39,404 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2025-02-13 14:16:39,425 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\student\Desktop\230958086_fintechlab\MIT-FIS-UI-THYMELEAF-master\MIT-FIS-UI-THYMELEAF-master\FIS10\FIS10\src\test\resources

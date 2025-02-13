@@ -1,0 +1,8 @@
+spring.application.name=FIS10
+# Database Configuration
+spring.datasource.url=jdbc:mysql://localhost:3306/FIS
+spring.datasource.username=PKA
+spring.datasource.password=PKA
+spring.jpa.hibernate.ddl-auto=update
+spring.jpa.show-sql=true
+
